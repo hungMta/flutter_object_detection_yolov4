@@ -1,0 +1,3 @@
+# ninja log v5
+0	357	1622790050	CMakeFiles/convertImage.dir/Users/hungtran/Downloads/object_detection_flutter-master/ios/Classes/converter.c.o	b60c824223bed92c
+357	436	1622790050	/Users/hungtran/Downloads/object_detection_flutter-master/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libconvertImage.so	cc618952e29384ec

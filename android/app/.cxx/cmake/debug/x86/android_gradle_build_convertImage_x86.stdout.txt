@@ -1,0 +1,3 @@
+ninja: Entering directory `/Users/hungtran/Downloads/object_detection_flutter-master/android/app/.cxx/cmake/debug/x86'
+[1/2] Building C object CMakeFiles/convertImage.dir/Users/hungtran/Downloads/object_detection_flutter-master/ios/Classes/converter.c.o
+[2/2] Linking C shared library /Users/hungtran/Downloads/object_detection_flutter-master/build/app/intermediates/cmake/debug/obj/x86/libconvertImage.so

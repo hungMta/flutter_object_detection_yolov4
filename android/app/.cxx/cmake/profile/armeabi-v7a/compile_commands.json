@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/hungtran/Downloads/object_detection_flutter-master/android/app/.cxx/cmake/profile/armeabi-v7a",
+  "command": "/Users/hungtran/Library/Android/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/hungtran/Library/Android/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hungtran/Library/Android/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DconvertImage_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/convertImage.dir/Users/hungtran/Downloads/object_detection_flutter-master/ios/Classes/converter.c.o   -c /Users/hungtran/Downloads/object_detection_flutter-master/ios/Classes/converter.c",
+  "file": "/Users/hungtran/Downloads/object_detection_flutter-master/ios/Classes/converter.c"
+}
+]

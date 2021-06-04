@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/hungtran/Library/Android/sdk/ndk/21.3.6528147/build/cmake/android.toolchain.cmake",
+    "/Users/hungtran/Library/Android/sdk/ndk/21.3.6528147/build/cmake/platforms.cmake",
+    "/Users/hungtran/Downloads/object_detection_flutter-master/android/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/hungtran/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/hungtran/Downloads/object_detection_flutter-master/android/app/.cxx/cmake/profile/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/hungtran/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/hungtran/Downloads/object_detection_flutter-master/android/app/.cxx/cmake/profile/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "convertImage-Debug-x86": {
+      "artifactName": "convertImage",
+      "buildCommand": "/Users/hungtran/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/hungtran/Downloads/object_detection_flutter-master/android/app/.cxx/cmake/profile/x86\" convertImage",
+      "abi": "x86",
+      "output": "/Users/hungtran/Downloads/object_detection_flutter-master/build/app/intermediates/cmake/profile/obj/x86/libconvertImage.so",
+      "runtimeFiles": []
+    }
+  }
+}
